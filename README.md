@@ -1,5 +1,5 @@
 # Playground
-Javiera Astudillo is taking:
+Javiera Astudillo is a G1 taking:
 * cs207
 * stat110
 * stat120
