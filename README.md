@@ -1,5 +1,5 @@
 # Playground
-Fall 2020 courses:
+Javiera Astudillo is taking:
 * cs207
 * stat110
 * stat120
